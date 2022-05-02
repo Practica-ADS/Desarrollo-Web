@@ -1,0 +1,17 @@
+C:\Users\danie\source\repos\Arbol_AVL\Arbol_AVL\bin\Debug\net6.0-windows\Arbol_AVL.exe
+C:\Users\danie\source\repos\Arbol_AVL\Arbol_AVL\bin\Debug\net6.0-windows\Arbol_AVL.deps.json
+C:\Users\danie\source\repos\Arbol_AVL\Arbol_AVL\bin\Debug\net6.0-windows\Arbol_AVL.runtimeconfig.json
+C:\Users\danie\source\repos\Arbol_AVL\Arbol_AVL\bin\Debug\net6.0-windows\Arbol_AVL.dll
+C:\Users\danie\source\repos\Arbol_AVL\Arbol_AVL\bin\Debug\net6.0-windows\Arbol_AVL.pdb
+C:\Users\danie\source\repos\Arbol_AVL\Arbol_AVL\obj\Debug\net6.0-windows\Arbol_AVL.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Arbol_AVL\Arbol_AVL\obj\Debug\net6.0-windows\Arbol_AVL.Form1.resources
+C:\Users\danie\source\repos\Arbol_AVL\Arbol_AVL\obj\Debug\net6.0-windows\Arbol_AVL.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\Arbol_AVL\Arbol_AVL\obj\Debug\net6.0-windows\Arbol_AVL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Arbol_AVL\Arbol_AVL\obj\Debug\net6.0-windows\Arbol_AVL.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Arbol_AVL\Arbol_AVL\obj\Debug\net6.0-windows\Arbol_AVL.AssemblyInfo.cs
+C:\Users\danie\source\repos\Arbol_AVL\Arbol_AVL\obj\Debug\net6.0-windows\Arbol_AVL.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Arbol_AVL\Arbol_AVL\obj\Debug\net6.0-windows\Arbol_AVL.dll
+C:\Users\danie\source\repos\Arbol_AVL\Arbol_AVL\obj\Debug\net6.0-windows\refint\Arbol_AVL.dll
+C:\Users\danie\source\repos\Arbol_AVL\Arbol_AVL\obj\Debug\net6.0-windows\Arbol_AVL.pdb
+C:\Users\danie\source\repos\Arbol_AVL\Arbol_AVL\obj\Debug\net6.0-windows\Arbol_AVL.genruntimeconfig.cache
+C:\Users\danie\source\repos\Arbol_AVL\Arbol_AVL\obj\Debug\net6.0-windows\ref\Arbol_AVL.dll
